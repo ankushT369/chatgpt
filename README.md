@@ -1,4 +1,4 @@
-# chatgpt
+# Struct Serialization in C
 Struct Serialization in C
 user
 how do in real life system programming codebases serialize the struct data in C
